@@ -1,4 +1,4 @@
-#!/bin/bash
+cd ..#!/bin/bash
 echo -n " Please Enter the filename: "
 read filename
 today=`date +%m-%d-%y` 
